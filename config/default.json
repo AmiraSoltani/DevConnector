@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://amira:amira20032019@cluster0-bxije.mongodb.net/test?retryWrites=true&w=majority",
+    "jwtSecret":"mysecrettoken"
+}
